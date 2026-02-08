@@ -1,0 +1,2 @@
+# Requires: recursive-maybe
+# (Not available on PyPI)
